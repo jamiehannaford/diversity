@@ -4,6 +4,7 @@
 - [How Diversity Makes Us Smarter](http://www.scientificamerican.com/article/how-diversity-makes-us-smarter/) by Katherine W. Phillips
 - [Better Decisions Through Diversity](http://insight.kellogg.northwestern.edu/article/better_decisions_through_diversity) by Katherine W. Phillips, Katie A. Liljenquist, and Margaret A. Neale
 - [Exposing Hidden Bias at Google](http://www.nytimes.com/2014/09/25/technology/exposing-hidden-biases-at-google-to-improve-diversity.html) by Farhad Manjoo
+- [Ally Skills](https://adainitiative.org/what-we-do/workshops-and-training/) by the Ada Initiative
 
 ## Hiring
 - [Hiring issue, November 18th 2014](https://modelviewculture.com/issues/hiring) by Model View Culture
