@@ -11,6 +11,9 @@
 - [Want More Women Working in Tech? Let Them Stay at Home](http://www.wired.com/2015/04/powertofly/) by Issie Lapowsky
 - [Tips for Writing Better Job Ads](https://www.ncwit.org/sites/default/files/resources/ncwittips_writingbetterjobads_03172015update.pdf) by National Center for Women and Information Technology
 
+## Retention
+- [Why women leave tech: what the research says](https://docs.google.com/document/u/1/d/1soIYek-YEIvqtu9brv3ecdPbuVzQKp_GhAozC06UrLo/mobilebasic?pli=1#h.ywjrqw3xyv6x) by Sue Gardner
+
 ## Culture of fear and Imposter Syndrome
 - [Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s) by Sasha Laundy (PyCon 2015)
 - [PyCon 2015 keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE) by Jacbo Kaplan-Moss
