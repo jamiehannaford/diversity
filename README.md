@@ -30,6 +30,7 @@
 - [Ally Skills Workshop](https://adainitiative.org/what-we-do/workshops-and-training/) by the Ada Initiative
 - [OpenHatch](https://openhatch.org/)
 - [GNOME Outreachy internships](https://wiki.gnome.org/Outreachy)
+- [Contributor Covenant](http://contributor-covenant.org)
 
 ## Events and meet-ups
 - [Events issue, October 27th 2014](https://modelviewculture.com/issues/events) by Model View Culture
