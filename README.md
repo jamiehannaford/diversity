@@ -24,7 +24,7 @@
 - [Social rules and environment](https://www.recurse.com/manual#sec-environment) by the Recurse Center (formerly Hacker School)
 - [Meritocracy](http://geekfeminism.wikia.com/wiki/Meritocracy) by Geek Feminism
 
-## Open-source communities
+## Open-source communities
 - [Open-source issue, July 21st 2014](https://modelviewculture.com/issues/open-source) by Model View Culture
 - [The Ethics of Unpaid Labor and the OSS Community](http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community) by Ashe Dryden
 - [Ally Skills Workshop](https://adainitiative.org/what-we-do/workshops-and-training/) by the Ada Initiative
